@@ -1,23 +1,23 @@
 /* No comment provided by engineer. */
-"%d days ago" = "%d päivää sitten";
+"%1.0f days ago" = "%1.0f päivää sitten";
 
 /* No comment provided by engineer. */
-"%d hours ago" = "%d tuntia sitten";
+"%1.0f hours ago" = "%1.0f tuntia sitten";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "%d minuuttia sitten";
+"%1.0f minutes ago" = "%1.0f minuuttia sitten";
 
 /* No comment provided by engineer. */
-"%d months ago" = "%d kuukautta sitten";
+"%1.0f months ago" = "%1.0f kuukautta sitten";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "%d sekuntia sitten";
+"%1.0f seconds ago" = "%1.0f sekuntia sitten";
 
 /* No comment provided by engineer. */
-"%d weeks ago" = "%d viikkoa sitten";
+"%1.0f weeks ago" = "%1.0f viikkoa sitten";
 
 /* No comment provided by engineer. */
-"%d years ago" = "%d vuotta sitten";
+"%1.0f years ago" = "%1.0f vuotta sitten";
 
 /* No comment provided by engineer. */
 "A minute ago" = "Minuutti sitten";

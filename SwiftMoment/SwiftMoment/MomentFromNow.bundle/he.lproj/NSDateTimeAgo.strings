@@ -1,23 +1,23 @@
 /* No comment provided by engineer. */
-"%d days ago" = "לפני %d ימים";
+"%1.0f days ago" = "לפני %1.0f ימים";
 
 /* No comment provided by engineer. */
-"%d hours ago" = "לפני %d שעות";
+"%1.0f hours ago" = "לפני %1.0f שעות";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "לפני %d דקות";
+"%1.0f minutes ago" = "לפני %1.0f דקות";
 
 /* No comment provided by engineer. */
-"%d months ago" = "לפני %d חודשים";
+"%1.0f months ago" = "לפני %1.0f חודשים";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "לפני %d שניות";
+"%1.0f seconds ago" = "לפני %1.0f שניות";
 
 /* No comment provided by engineer. */
-"%d weeks ago" = "לפני %d שבועות";
+"%1.0f weeks ago" = "לפני %1.0f שבועות";
 
 /* No comment provided by engineer. */
-"%d years ago" = "לפני %d שנים";
+"%1.0f years ago" = "לפני %1.0f שנים";
 
 /* No comment provided by engineer. */
 "A minute ago" = "לפני דקה";

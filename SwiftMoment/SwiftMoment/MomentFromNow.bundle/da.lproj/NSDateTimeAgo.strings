@@ -1,23 +1,23 @@
 /* No comment provided by engineer. */
-"%d days ago" = "%d dage siden";
+"%1.0f days ago" = "%1.0f dage siden";
 
 /* No comment provided by engineer. */
-"%d hours ago" = "%d timer siden";
+"%1.0f hours ago" = "%1.0f timer siden";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "%d minutter siden";
+"%1.0f minutes ago" = "%1.0f minutter siden";
 
 /* No comment provided by engineer. */
-"%d months ago" = "%d måneder siden";
+"%1.0f months ago" = "%1.0f måneder siden";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "%d sekunder siden";
+"%1.0f seconds ago" = "%1.0f sekunder siden";
 
 /* No comment provided by engineer. */
-"%d weeks ago" = "%d uger siden";
+"%1.0f weeks ago" = "%1.0f uger siden";
 
 /* No comment provided by engineer. */
-"%d years ago" = "%d år siden";
+"%1.0f years ago" = "%1.0f år siden";
 
 /* No comment provided by engineer. */
 "A minute ago" = "Et minut siden";

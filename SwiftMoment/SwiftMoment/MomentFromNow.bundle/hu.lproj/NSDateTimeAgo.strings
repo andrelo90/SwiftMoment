@@ -1,23 +1,23 @@
 /* No comment provided by engineer. */
-"%d days ago" = "%d napja";
+"%1.0f days ago" = "%1.0f napja";
 
 /* No comment provided by engineer. */
-"%d hours ago" = "%d órája";
+"%1.0f hours ago" = "%1.0f órája";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "%d perce";
+"%1.0f minutes ago" = "%1.0f perce";
 
 /* No comment provided by engineer. */
-"%d months ago" = "%d hónapja";
+"%1.0f months ago" = "%1.0f hónapja";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "%d másodperce";
+"%1.0f seconds ago" = "%1.0f másodperce";
 
 /* No comment provided by engineer. */
-"%d weeks ago" = "%d hete";
+"%1.0f weeks ago" = "%1.0f hete";
 
 /* No comment provided by engineer. */
-"%d years ago" = "%d éve";
+"%1.0f years ago" = "%1.0f éve";
 
 /* No comment provided by engineer. */
 "A minute ago" = "Egy perccel ezelőtt";

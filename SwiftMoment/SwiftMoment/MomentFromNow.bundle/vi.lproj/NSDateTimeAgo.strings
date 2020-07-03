@@ -1,23 +1,23 @@
 /* No comment provided by engineer. */
-"%d days ago" = "%d ngày trước";
+"%1.0f days ago" = "%1.0f ngày trước";
 
 /* No comment provided by engineer. */
-"%d hours ago" = "%d giờ trước";
+"%1.0f hours ago" = "%1.0f giờ trước";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "%d phút trước";
+"%1.0f minutes ago" = "%1.0f phút trước";
 
 /* No comment provided by engineer. */
-"%d months ago" = "%d tháng trước";
+"%1.0f months ago" = "%1.0f tháng trước";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "%d giây trước";
+"%1.0f seconds ago" = "%1.0f giây trước";
 
 /* No comment provided by engineer. */
-"%d weeks ago" = "%d tuần trước";
+"%1.0f weeks ago" = "%1.0f tuần trước";
 
 /* No comment provided by engineer. */
-"%d years ago" = "%d năm trước";
+"%1.0f years ago" = "%1.0f năm trước";
 
 /* No comment provided by engineer. */
 "A minute ago" = "Một phút trước";

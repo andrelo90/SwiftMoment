@@ -50,22 +50,22 @@
 "This year" = "Šogad";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "Pirms %d sekundēm";
+"%1.0f seconds ago" = "Pirms %1.0f sekundēm";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "Pirms %d minūtēm";
+"%1.0f minutes ago" = "Pirms %1.0f minūtēm";
 
 /* No comment provided by engineer. */
-"%d hours ago" = "Pirms %d stundām";
+"%1.0f hours ago" = "Pirms %1.0f stundām";
 
 /* No comment provided by engineer. */
-"%d days ago" = "Pirms %d dienām";
+"%1.0f days ago" = "Pirms %1.0f dienām";
 
 /* No comment provided by engineer. */
-"%d weeks ago" = "Pirms %d nedēļām";
+"%1.0f weeks ago" = "Pirms %1.0f nedēļām";
 
 /* No comment provided by engineer. */
-"%d months ago" = "Pirms %d mēnešiem";
+"%1.0f months ago" = "Pirms %1.0f mēnešiem";
 
 /* No comment provided by engineer. */
-"%d years ago" = "Pirms %d gadiem";
+"%1.0f years ago" = "Pirms %1.0f gadiem";

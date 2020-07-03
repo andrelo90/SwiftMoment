@@ -1,23 +1,23 @@
 /* No comment provided by engineer. */
-"%d days ago" = "Hace %d días";
+"%1.0f days ago" = "Hace %1.0f días";
 
 /* No comment provided by engineer. */
-"%d hours ago" = "Hace %d horas";
+"%1.0f hours ago" = "Hace %1.0f horas";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "Hace %d minutos";
+"%1.0f minutes ago" = "Hace %1.0f minutos";
 
 /* No comment provided by engineer. */
-"%d months ago" = "Hace %d meses";
+"%1.0f months ago" = "Hace %1.0f meses";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "Hace %d segundos";
+"%1.0f seconds ago" = "Hace %1.0f segundos";
 
 /* No comment provided by engineer. */
-"%d weeks ago" = "Hace %d semanas";
+"%1.0f weeks ago" = "Hace %1.0f semanas";
 
 /* No comment provided by engineer. */
-"%d years ago" = "Hace %d años";
+"%1.0f years ago" = "Hace %1.0f años";
 
 /* No comment provided by engineer. */
 "A minute ago" = "Hace un minuto";

@@ -1,23 +1,23 @@
 /* No comment provided by engineer. */
-"%d days ago" = "În urmă cu %d zile";
+"%1.0f days ago" = "În urmă cu %1.0f zile";
 
 /* No comment provided by engineer. */
-"%d hours ago" = "În urmă cu %d ore";
+"%1.0f hours ago" = "În urmă cu %1.0f ore";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "În urmă cu %d minute";
+"%1.0f minutes ago" = "În urmă cu %1.0f minute";
 
 /* No comment provided by engineer. */
-"%d months ago" = "În urmă cu %d luni";
+"%1.0f months ago" = "În urmă cu %1.0f luni";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "În urmă cu %d secunde";
+"%1.0f seconds ago" = "În urmă cu %1.0f secunde";
 
 /* No comment provided by engineer. */
-"%d weeks ago" = "În urmă cu %d săptămâni";
+"%1.0f weeks ago" = "În urmă cu %1.0f săptămâni";
 
 /* No comment provided by engineer. */
-"%d years ago" = "În urmă cu %d ani";
+"%1.0f years ago" = "În urmă cu %1.0f ani";
 
 /* No comment provided by engineer. */
 "A minute ago" = "În urmă cu 1 minut";
