@@ -1,23 +1,23 @@
 /* No comment provided by engineer. */
-"%1.0f days ago" = "%1.0f dagen geleden";
+"%d days ago" = "%d dagen geleden";
 
 /* No comment provided by engineer. */
-"%1.0f hours ago" = "%1.0f uur geleden";
+"%d hours ago" = "%d uur geleden";
 
 /* No comment provided by engineer. */
-"%1.0f minutes ago" = "%1.0f minuten geleden";
+"%d minutes ago" = "%d minuten geleden";
 
 /* No comment provided by engineer. */
-"%1.0f months ago" = "%1.0f maanden geleden";
+"%d months ago" = "%d maanden geleden";
 
 /* No comment provided by engineer. */
-"%1.0f seconds ago" = "%1.0f seconden geleden";
+"%d seconds ago" = "%d seconden geleden";
 
 /* No comment provided by engineer. */
-"%1.0f weeks ago" = "%1.0f weken geleden";
+"%d weeks ago" = "%d weken geleden";
 
 /* No comment provided by engineer. */
-"%1.0f years ago" = "%1.0f jaar geleden";
+"%d years ago" = "%d jaar geleden";
 
 /* No comment provided by engineer. */
 "A minute ago" = "Een minuut geleden";

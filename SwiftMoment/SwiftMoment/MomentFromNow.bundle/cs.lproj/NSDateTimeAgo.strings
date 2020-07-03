@@ -1,23 +1,23 @@
 /* No comment provided by engineer. */
-"%1.0f days ago" = "Před %1.0f dny";
+"%d days ago" = "Před %d dny";
 
 /* No comment provided by engineer. */
-"%1.0f hours ago" = "Před %1.0f hodinami";
+"%d hours ago" = "Před %d hodinami";
 
 /* No comment provided by engineer. */
-"%1.0f minutes ago" = "Před %1.0f minutami";
+"%d minutes ago" = "Před %d minutami";
 
 /* No comment provided by engineer. */
-"%1.0f months ago" = "Před %1.0f měsíci";
+"%d months ago" = "Před %d měsíci";
 
 /* No comment provided by engineer. */
-"%1.0f seconds ago" = "Před %1.0f sekundami";
+"%d seconds ago" = "Před %d sekundami";
 
 /* No comment provided by engineer. */
-"%1.0f weeks ago" = "Před %1.0f týdny";
+"%d weeks ago" = "Před %d týdny";
 
 /* No comment provided by engineer. */
-"%1.0f years ago" = "Před %1.0f lety";
+"%d years ago" = "Před %d lety";
 
 /* No comment provided by engineer. */
 "A minute ago" = "Před minutou";

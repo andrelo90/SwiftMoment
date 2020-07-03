@@ -1,23 +1,23 @@
 /* No comment provided by engineer. */
-"%1.0f days ago" = "%1.0f hari yang lalu";
+"%d days ago" = "%d hari yang lalu";
 
 /* No comment provided by engineer. */
-"%1.0f hours ago" = "%1.0f jam yang lalu";
+"%d hours ago" = "%d jam yang lalu";
 
 /* No comment provided by engineer. */
-"%1.0f minutes ago" = "%1.0f minit yang lalu";
+"%d minutes ago" = "%d minit yang lalu";
 
 /* No comment provided by engineer. */
-"%1.0f months ago" = "%1.0f bulan yang lalu";
+"%d months ago" = "%d bulan yang lalu";
 
 /* No comment provided by engineer. */
-"%1.0f seconds ago" = "%1.0f saat yang lalu";
+"%d seconds ago" = "%d saat yang lalu";
 
 /* No comment provided by engineer. */
-"%1.0f weeks ago" = "%1.0f minggu yang lalu";
+"%d weeks ago" = "%d minggu yang lalu";
 
 /* No comment provided by engineer. */
-"%1.0f years ago" = "%1.0f tahun yang lalu";
+"%d years ago" = "%d tahun yang lalu";
 
 /* No comment provided by engineer. */
 "A minute ago" = "Seminit yang lalu";

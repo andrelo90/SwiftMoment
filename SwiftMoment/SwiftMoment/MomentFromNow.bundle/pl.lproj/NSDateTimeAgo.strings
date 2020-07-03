@@ -1,23 +1,23 @@
 /* No comment provided by engineer. */
-"%1.0f days ago" = "%1.0f dni temu";
+"%d days ago" = "%d dni temu";
 
 /* No comment provided by engineer. */
-"%1.0f hours ago" = "%1.0f godzin(y) temu";
+"%d hours ago" = "%d godzin(y) temu";
 
 /* No comment provided by engineer. */
-"%1.0f minutes ago" = "%1.0f minut(y) temu";
+"%d minutes ago" = "%d minut(y) temu";
 
 /* No comment provided by engineer. */
-"%1.0f months ago" = "%1.0f miesiące/-y temu";
+"%d months ago" = "%d miesiące/-y temu";
 
 /* No comment provided by engineer. */
-"%1.0f seconds ago" = "%1.0f sekund(y) temu";
+"%d seconds ago" = "%d sekund(y) temu";
 
 /* No comment provided by engineer. */
-"%1.0f weeks ago" = "%1.0f tygodni(e) temu";
+"%d weeks ago" = "%d tygodni(e) temu";
 
 /* No comment provided by engineer. */
-"%1.0f years ago" = "%1.0f lat(a) temu";
+"%d years ago" = "%d lat(a) temu";
 
 /* No comment provided by engineer. */
 "A minute ago" = "Minutę temu";

@@ -4,73 +4,73 @@
  */
 
 /* Y ==0 OR Y > 4 OR XY == 11; */
-"%1.0f days ago" = "%1.0f dager siden";
+"%d days ago" = "%d dager siden";
 
 /* If Y != 1 AND Y < 5; */
-"%1.0f _days ago" = "%1.0f dager siden";
+"%d _days ago" = "%d dager siden";
 
 /* If Y == 1; */
-"%1.0f __days ago" = "%1.0f dag siden";
+"%d __days ago" = "%d dag siden";
 
 
 /* Y ==0 OR Y > 4 OR XY == 11; */
-"%1.0f hours ago" = "%1.0f timer siden";
+"%d hours ago" = "%d timer siden";
 
 /* If Y != 1 AND Y < 5; */
-"%1.0f _hours ago" = "%1.0f timer siden";
+"%d _hours ago" = "%d timer siden";
 
 /* If Y == 1; */
-"%1.0f __hours ago" = "%1.0f time siden";
+"%d __hours ago" = "%d time siden";
 
 
 /* Y ==0 OR Y > 4 OR XY == 11; */
-"%1.0f minutes ago" = "%1.0f minutter siden";
+"%d minutes ago" = "%d minutter siden";
 
 /* If Y != 1 AND Y < 5; */
-"%1.0f _minutes ago" = "%1.0f minutter siden";
+"%d _minutes ago" = "%d minutter siden";
 
 /* If Y == 1; */
-"%1.0f __minutes ago" = "%1.0f minutt siden";
+"%d __minutes ago" = "%d minutt siden";
 
 
 /* Y ==0 OR Y > 4 OR XY == 11; */
-"%1.0f months ago" = "%1.0f måneder siden";
+"%d months ago" = "%d måneder siden";
 
 /* If Y != 1 AND Y < 5; */
-"%1.0f _months ago" = "%1.0f måneder siden";
+"%d _months ago" = "%d måneder siden";
 
 /* If Y == 1; */
-"%1.0f __months ago" = "%1.0f måned siden";
+"%d __months ago" = "%d måned siden";
 
 
 /* Y ==0 OR Y > 4 OR XY == 11; */
-"%1.0f seconds ago" = "%1.0f sekunder siden";
+"%d seconds ago" = "%d sekunder siden";
 
 /* If Y != 1 AND Y < 5; */
-"%1.0f _seconds ago" = "%1.0f sekunder siden";
+"%d _seconds ago" = "%d sekunder siden";
 
 /* If Y == 1; */
-"%1.0f __seconds ago" = "%1.0f sekund siden";
+"%d __seconds ago" = "%d sekund siden";
 
 
 /* Y ==0 OR Y > 4 OR XY == 11; */
-"%1.0f weeks ago" = "%1.0f uker siden";
+"%d weeks ago" = "%d uker siden";
 
 /* If Y != 1 AND Y < 5; */
-"%1.0f _weeks ago" = "%1.0f uker siden";
+"%d _weeks ago" = "%d uker siden";
 
 /* If Y == 1; */
-"%1.0f __weeks ago" = "%1.0f uke siden";
+"%d __weeks ago" = "%d uke siden";
 
 
 /* Y ==0 OR Y > 4 OR XY == 11; */
-"%1.0f years ago" = "%1.0f år siden";
+"%d years ago" = "%d år siden";
 
 /* If Y != 1 AND Y < 5; */
-"%1.0f _years ago" = "%1.0f år siden";
+"%d _years ago" = "%d år siden";
 
 /* If Y == 1; */
-"%1.0f __years ago" = "%1.0f år siden";
+"%d __years ago" = "%d år siden";
 
 
 /* No comment provided by engineer. */

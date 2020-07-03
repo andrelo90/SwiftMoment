@@ -1,23 +1,23 @@
 /* No comment provided by engineer. */
-"%1.0f days ago" = "%1.0f gün önce";
+"%d days ago" = "%d gün önce";
 
 /* No comment provided by engineer. */
-"%1.0f hours ago" = "%1.0f saat önce";
+"%d hours ago" = "%d saat önce";
 
 /* No comment provided by engineer. */
-"%1.0f minutes ago" = "%1.0f dakika önce";
+"%d minutes ago" = "%d dakika önce";
 
 /* No comment provided by engineer. */
-"%1.0f months ago" = "%1.0f ay önce";
+"%d months ago" = "%d ay önce";
 
 /* No comment provided by engineer. */
-"%1.0f seconds ago" = "%1.0f saniye önce";
+"%d seconds ago" = "%d saniye önce";
 
 /* No comment provided by engineer. */
-"%1.0f weeks ago" = "%1.0f hafta önce";
+"%d weeks ago" = "%d hafta önce";
 
 /* No comment provided by engineer. */
-"%1.0f years ago" = "%1.0f yıl önce";
+"%d years ago" = "%d yıl önce";
 
 /* No comment provided by engineer. */
 "A minute ago" = "Bir dakika önce";

@@ -4,73 +4,73 @@ Assume value for (seconds, hours, minutes, days, weeks, months or years) is XXXY
 */
 
 /* Y == 0 OR Y > 4 OR (XY > 10 AND XY < 15); */
-"%1.0f days ago" = "%1.0f дней назад";
+"%d days ago" = "%d дней назад";
 
 /* Y > 1 AND Y < 5 AND (XY < 10 OR XY > 20); */
-"%1.0f _days ago" = "%1.0f дня назад";
+"%d _days ago" = "%d дня назад";
 
 /* Y == 1 AND XY != 11; */
-"%1.0f __days ago" = "%1.0f день назад";
+"%d __days ago" = "%d день назад";
 
 
 /* Y == 0 OR Y > 4 OR (XY > 10 AND XY < 15); */
-"%1.0f hours ago" = "%1.0f часов назад";
+"%d hours ago" = "%d часов назад";
 
 /* Y > 1 AND Y < 5 AND (XY < 10 OR XY > 20); */
-"%1.0f _hours ago" = "%1.0f часа назад";
+"%d _hours ago" = "%d часа назад";
 
 /* Y == 1 AND XY != 11; */
-"%1.0f __hours ago" = "%1.0f час назад";
+"%d __hours ago" = "%d час назад";
 
 
 /* Y == 0 OR Y > 4 OR (XY > 10 AND XY < 15); */
-"%1.0f minutes ago" = "%1.0f минут назад";
+"%d minutes ago" = "%d минут назад";
 
 /* Y > 1 AND Y < 5 AND (XY < 10 OR XY > 20); */
-"%1.0f _minutes ago" = "%1.0f минуты назад";
+"%d _minutes ago" = "%d минуты назад";
 
 /* Y == 1 AND XY != 11; */
-"%1.0f __minutes ago" = "%1.0f минуту назад";
+"%d __minutes ago" = "%d минуту назад";
 
 
 /* Y == 0 OR Y > 4 OR (XY > 10 AND XY < 15); */
-"%1.0f months ago" = "%1.0f месяцев назад";
+"%d months ago" = "%d месяцев назад";
 
 /* Y > 1 AND Y < 5 AND (XY < 10 OR XY > 20); */
-"%1.0f _months ago" = "%1.0f месяца назад";
+"%d _months ago" = "%d месяца назад";
 
 /* Y == 1 AND XY != 11; */
-"%1.0f __months ago" = "%1.0f месяц назад";
+"%d __months ago" = "%d месяц назад";
 
 
 /* Y == 0 OR Y > 4 OR (XY > 10 AND XY < 15); */
-"%1.0f seconds ago" = "%1.0f секунд назад";
+"%d seconds ago" = "%d секунд назад";
 
 /* Y > 1 AND Y < 5 AND (XY < 10 OR XY > 20); */
-"%1.0f _seconds ago" = "%1.0f секунды назад";
+"%d _seconds ago" = "%d секунды назад";
 
 /* Y == 1 AND XY != 11; */
-"%1.0f __seconds ago" = "%1.0f секунду назад";
+"%d __seconds ago" = "%d секунду назад";
 
 
 /* Y == 0 OR Y > 4 OR (XY > 10 AND XY < 15); */
-"%1.0f weeks ago" = "%1.0f недель назад";
+"%d weeks ago" = "%d недель назад";
 
 /* Y > 1 AND Y < 5 AND (XY < 10 OR XY > 20); */
-"%1.0f _weeks ago" = "%1.0f недели назад";
+"%d _weeks ago" = "%d недели назад";
 
 /* Y == 1 AND XY != 11; */
-"%1.0f __weeks ago" = "%1.0f неделю назад";
+"%d __weeks ago" = "%d неделю назад";
 
 
 /* Y == 0 OR Y > 4 OR (XY > 10 AND XY < 15); */
-"%1.0f years ago" = "%1.0f лет назад";
+"%d years ago" = "%d лет назад";
 
 /* Y > 1 AND Y < 5 AND (XY < 10 OR XY > 20); */
-"%1.0f _years ago" = "%1.0f года назад";
+"%d _years ago" = "%d года назад";
 
 /* Y == 1 AND XY != 11; */
-"%1.0f __years ago" = "%1.0f год назад";
+"%d __years ago" = "%d год назад";
 
 
 /* No comment provided by engineer. */

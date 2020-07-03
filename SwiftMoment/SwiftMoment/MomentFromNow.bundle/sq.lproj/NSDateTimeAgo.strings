@@ -1,23 +1,23 @@
 /* No comment provided by engineer. */
-"%1.0f days ago" = "%1.0f ditë më parë";
+"%d days ago" = "%d ditë më parë";
 
 /* No comment provided by engineer. */
-"%1.0f hours ago" = "%1.0f orë më parë";
+"%d hours ago" = "%d orë më parë";
 
 /* No comment provided by engineer. */
-"%1.0f minutes ago" = "%1.0f minuta më parë";
+"%d minutes ago" = "%d minuta më parë";
 
 /* No comment provided by engineer. */
-"%1.0f months ago" = "%1.0f muaj më parë";
+"%d months ago" = "%d muaj më parë";
 
 /* No comment provided by engineer. */
-"%1.0f seconds ago" = "%1.0f sekonda më parë";
+"%d seconds ago" = "%d sekonda më parë";
 
 /* No comment provided by engineer. */
-"%1.0f weeks ago" = "%1.0f javë më parë";
+"%d weeks ago" = "%d javë më parë";
 
 /* No comment provided by engineer. */
-"%1.0f years ago" = "%1.0f vite më parë";
+"%d years ago" = "%d vite më parë";
 
 /* No comment provided by engineer. */
 "A minute ago" = "Një minutë më parë";

@@ -4,73 +4,73 @@ Assume value for (seconds, hours, minutes, days, weeks, months or years) is XXXY
 */
 
 /* Y == 0 OR Y > 4 OR (XY > 10 AND XY < 15); */
-"%1.0f days ago" = "%1.0f днів тому";
+"%d days ago" = "%d днів тому";
 
 /* Y > 1 AND Y < 5 AND (XY < 10 OR XY > 20); */
-"%1.0f _days ago" = "%1.0f дня тому";
+"%d _days ago" = "%d дня тому";
 
 /* Y == 1 AND XY != 11; */
-"%1.0f __days ago" = "%1.0f день тому";
+"%d __days ago" = "%d день тому";
 
 
 /* Y == 0 OR Y > 4 OR (XY > 10 AND XY < 15); */
-"%1.0f hours ago" = "%1.0f годин тому";
+"%d hours ago" = "%d годин тому";
 
 /* Y > 1 AND Y < 5 AND (XY < 10 OR XY > 20); */
-"%1.0f _hours ago" = "%1.0f години тому";
+"%d _hours ago" = "%d години тому";
 
 /* Y == 1 AND XY != 11; */
-"%1.0f __hours ago" = "%1.0f годину тому";
+"%d __hours ago" = "%d годину тому";
 
 
 /* Y == 0 OR Y > 4 OR (XY > 10 AND XY < 15); */
-"%1.0f minutes ago" = "%1.0f хвилин тому";
+"%d minutes ago" = "%d хвилин тому";
 
 /* Y > 1 AND Y < 5 AND (XY < 10 OR XY > 20); */
-"%1.0f _minutes ago" = "%1.0f хвилини тому";
+"%d _minutes ago" = "%d хвилини тому";
 
 /* Y == 1 AND XY != 11; */
-"%1.0f __minutes ago" = "%1.0f хвилину тому";
+"%d __minutes ago" = "%d хвилину тому";
 
 
 /* Y == 0 OR Y > 4 OR (XY > 10 AND XY < 15); */
-"%1.0f months ago" = "%1.0f місяців тому";
+"%d months ago" = "%d місяців тому";
 
 /* Y > 1 AND Y < 5 AND (XY < 10 OR XY > 20); */
-"%1.0f _months ago" = "%1.0f місяця тому";
+"%d _months ago" = "%d місяця тому";
 
 /* Y == 1 AND XY != 11; */
-"%1.0f __months ago" = "%1.0f місяць тому";
+"%d __months ago" = "%d місяць тому";
 
 
 /* Y == 0 OR Y > 4 OR (XY > 10 AND XY < 15); */
-"%1.0f seconds ago" = "%1.0f секунд тому";
+"%d seconds ago" = "%d секунд тому";
 
 /* Y > 1 AND Y < 5 AND (XY < 10 OR XY > 20); */
-"%1.0f _seconds ago" = "%1.0f секунди тому";
+"%d _seconds ago" = "%d секунди тому";
 
 /* Y == 1 AND XY != 11; */
-"%1.0f __seconds ago" = "%1.0f секунду тому";
+"%d __seconds ago" = "%d секунду тому";
 
 
 /* Y == 0 OR Y > 4 OR (XY > 10 AND XY < 15); */
-"%1.0f weeks ago" = "%1.0f тижднів тому";
+"%d weeks ago" = "%d тижднів тому";
 
 /* Y > 1 AND Y < 5 AND (XY < 10 OR XY > 20); */
-"%1.0f _weeks ago" = "%1.0f тиждні тому";
+"%d _weeks ago" = "%d тиждні тому";
 
 /* Y == 1 AND XY != 11; */
-"%1.0f __weeks ago" = "%1.0f тиждень тому";
+"%d __weeks ago" = "%d тиждень тому";
 
 
 /* Y == 0 OR Y > 4 OR (XY > 10 AND XY < 15); */
-"%1.0f years ago" = "%1.0f років тому";
+"%d years ago" = "%d років тому";
 
 /* Y > 1 AND Y < 5 AND (XY < 10 OR XY > 20); */
-"%1.0f _years ago" = "%1.0f роки тому";
+"%d _years ago" = "%d роки тому";
 
 /* Y == 1 AND XY != 11; */
-"%1.0f __years ago" = "%1.0f рік тому";
+"%d __years ago" = "%d рік тому";
 
 
 /* No comment provided by engineer. */

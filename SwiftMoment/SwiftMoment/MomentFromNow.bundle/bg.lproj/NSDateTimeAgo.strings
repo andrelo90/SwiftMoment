@@ -1,23 +1,23 @@
 /* No comment provided by engineer. */
-"%1.0f days ago" = "преди %1.0f дена";
+"%d days ago" = "преди %d дена";
 
 /* No comment provided by engineer. */
-"%1.0f hours ago" = "преди %1.0f часа";
+"%d hours ago" = "преди %d часа";
 
 /* No comment provided by engineer. */
-"%1.0f minutes ago" = "преди %1.0f минути";
+"%d minutes ago" = "преди %d минути";
 
 /* No comment provided by engineer. */
-"%1.0f months ago" = "преди %1.0f месеца";
+"%d months ago" = "преди %d месеца";
 
 /* No comment provided by engineer. */
-"%1.0f seconds ago" = "преди %1.0f секунди";
+"%d seconds ago" = "преди %d секунди";
 
 /* No comment provided by engineer. */
-"%1.0f weeks ago" = "преди %1.0f седмици";
+"%d weeks ago" = "преди %d седмици";
 
 /* No comment provided by engineer. */
-"%1.0f years ago" = "преди %1.0f години";
+"%d years ago" = "преди %d години";
 
 /* No comment provided by engineer. */
 "A minute ago" = "преди минута";

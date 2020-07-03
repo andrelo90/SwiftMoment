@@ -1,23 +1,23 @@
 /* No comment provided by engineer. */
-"%1.0f days ago" = "%1.0f일전";
+"%d days ago" = "%d일전";
 
 /* No comment provided by engineer. */
-"%1.0f hours ago" = "%1.0f시간전";
+"%d hours ago" = "%d시간전";
 
 /* No comment provided by engineer. */
-"%1.0f minutes ago" = "%1.0f분전";
+"%d minutes ago" = "%d분전";
 
 /* No comment provided by engineer. */
-"%1.0f months ago" = "%1.0f개월전";
+"%d months ago" = "%d개월전";
 
 /* No comment provided by engineer. */
-"%1.0f seconds ago" = "%1.0f초전";
+"%d seconds ago" = "%d초전";
 
 /* No comment provided by engineer. */
-"%1.0f weeks ago" = "%1.0f주전";
+"%d weeks ago" = "%d주전";
 
 /* No comment provided by engineer. */
-"%1.0f years ago" = "%1.0f년전";
+"%d years ago" = "%d년전";
 
 /* No comment provided by engineer. */
 "A minute ago" = "1분전";

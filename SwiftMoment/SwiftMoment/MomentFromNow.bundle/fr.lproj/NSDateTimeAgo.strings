@@ -1,23 +1,23 @@
 /* No comment provided by engineer. */
-"%1.0f days ago" = "Il y a %1.0f jours";
+"%d days ago" = "Il y a %d jours";
 
 /* No comment provided by engineer. */
-"%1.0f hours ago" = "Il y a %1.0f heures";
+"%d hours ago" = "Il y a %d heures";
 
 /* No comment provided by engineer. */
-"%1.0f minutes ago" = "Il y a %1.0f minutes";
+"%d minutes ago" = "Il y a %d minutes";
 
 /* No comment provided by engineer. */
-"%1.0f months ago" = "Il y a %1.0f mois";
+"%d months ago" = "Il y a %d mois";
 
 /* No comment provided by engineer. */
-"%1.0f seconds ago" = "Il y a %1.0f secondes";
+"%d seconds ago" = "Il y a %d secondes";
 
 /* No comment provided by engineer. */
-"%1.0f weeks ago" = "Il y a %1.0f semaines";
+"%d weeks ago" = "Il y a %d semaines";
 
 /* No comment provided by engineer. */
-"%1.0f years ago" = "Il y a %1.0f ans";
+"%d years ago" = "Il y a %d ans";
 
 /* No comment provided by engineer. */
 "A minute ago" = "Il y a une minute";

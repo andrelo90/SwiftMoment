@@ -1,23 +1,23 @@
 /* No comment provided by engineer. */
-"%1.0f days ago" = "%1.0f giorni fa";
+"%d days ago" = "%d giorni fa";
 
 /* No comment provided by engineer. */
-"%1.0f hours ago" = "%1.0f ore fa";
+"%d hours ago" = "%d ore fa";
 
 /* No comment provided by engineer. */
-"%1.0f minutes ago" = "%1.0f minuti fa";
+"%d minutes ago" = "%d minuti fa";
 
 /* No comment provided by engineer. */
-"%1.0f months ago" = "%1.0f mesi fa";
+"%d months ago" = "%d mesi fa";
 
 /* No comment provided by engineer. */
-"%1.0f seconds ago" = "%1.0f secondi fa";
+"%d seconds ago" = "%d secondi fa";
 
 /* No comment provided by engineer. */
-"%1.0f weeks ago" = "%1.0f settimane fa";
+"%d weeks ago" = "%d settimane fa";
 
 /* No comment provided by engineer. */
-"%1.0f years ago" = "%1.0f anni fa";
+"%d years ago" = "%d anni fa";
 
 /* No comment provided by engineer. */
 "A minute ago" = "Un minuto fa";
